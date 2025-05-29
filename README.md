@@ -81,7 +81,7 @@
 
       <h3>“CheeSa Ba?” – Banana Cheese Balls</h3>
       <p>This was a hands-on business project I worked on with fellow students, where we developed a unique product: banana cheese balls. Inspired by the abundance of bananas in Ilocos Norte and their popularity in Filipino snacks, we created CheeSa Ba?—a healthier, budget-friendly, and locally loved food item. I was involved in branding, marketing, and planning the sales strategy. Our team focused on sustainability, affordability, and quality. With a marketing budget of ₱50,000 and a set markup of 20%, we aimed for strong growth and real-world learning in entrepreneurship. The project was a great way to apply creativity, teamwork, and business planning skills.</p>
-      <img src="banana-logo.jpg" alt="CheeSa Ba Logo">
+      415744838_1385467608737011_5957684783167434368_n.jpg
     </section>
 
     <section id="contact">
